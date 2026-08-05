@@ -1,0 +1,22 @@
+# Config rules for apply_config_rules node
+# TODO: define per claim_type — auto-approve thresholds, required fields, eligibility window (days)
+
+medical:
+  max_auto_approve_amount: null
+  eligibility_window_days: null
+
+disability:
+  max_auto_approve_amount: null
+  eligibility_window_days: null
+
+property_damage:
+  max_auto_approve_amount: null
+  eligibility_window_days: null
+
+death_benefit:
+  max_auto_approve_amount: null
+  eligibility_window_days: null
+
+other:
+  max_auto_approve_amount: null
+  eligibility_window_days: null
